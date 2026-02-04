@@ -1,6 +1,6 @@
 *This is a submission for the [GitHub Copilot CLI Challenge](https://dev.to/challenges/github-2026-01-21)*
 
-![Cover image: network diagnostics terminal](https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=80)
+![Cover image: network diagnostics terminal](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/953ogodmrkdrdsirbxxj.png)
 
 ## What I Built
 I built a Test-NetConnection interactive assistant that runs continuous network checks to a target host, logs results, and provides both statistical summaries and AI-powered observations. The assistant supports background monitoring tasks, listing active jobs, and on-demand log analysis. It’s designed for quick, repeatable troubleshooting of latency spikes and packet loss without leaving the terminal.
